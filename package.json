@@ -3,9 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^4.2.1",
+    "@material/react-layout-grid": "^0.15.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
+    "react-particles-js": "^2.7.0",
+    "react-scripts": "3.0.1",
+    "react-scroll": "^1.7.12",
+    "react-scrollable-anchor": "^0.6.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -27,5 +32,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
   }
 }

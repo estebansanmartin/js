@@ -1,0 +1,40 @@
+/* Variables
+/* ---------------------------------------------------------- */
+
+@import url('https://fonts.googleapis.com/css?family=Muli:400,400i,600,700,700i,800&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Megrim|Poiret+One|Roboto+Mono|Space+Mono&display=swap');
+
+:root {
+
+    /* Colours */
+    --color-primary: cyan;
+    --color-base: cyan;
+    --color-border: cyan;
+    --color-bg: #f8f8f8;
+    --color1: #011627;
+    --color2: #b91372;
+    --color3: #54086b;
+    --color4: #00bec5;
+
+    /* Fonts */
+    --font-sans-serif: 'Megrim', cursive;
+    --font-serif: 'Poiret One', cursive;
+    --font-mono: 'Roboto Mono', monospace;
+    --font-light: 100;
+    --font-normal: 400;
+    --font-bold: 700;
+    --font-heavy: 800;
+
+    /* Breakpoints */
+    --xlarge: 1680px;
+    --large: 1280px;
+    --medium: 980px;
+    --small: 740px;
+    --xsmall: 480px;
+
+    /* Sizes */
+    --height: 4rem;
+    --margin: 2rem;
+    --radius: 0.5rem;
+
+}
